@@ -10,14 +10,25 @@ export default [
         imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
     },
     
-    // {   
-    //     id: "2",
-    //     location: "Sydney Opera House",
-    //     country: "Australia",
-    //     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-    //     startDate: "27th May, 2021",
-    //     endDate: "8th June, 2021",
-    //     description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
-    //     imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
-    // }
+    {   
+        id: "2",
+        location: "Sydney Opera House",
+        country: "Australia",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "27th May, 2021",
+        endDate: "8th June, 2021",
+        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
+    },
+    
+    {   
+        id: "3",
+        location: "Geirangerfjord",
+        country: "Norway",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "1st Oct, 2021",
+        endDate: "18th Nov, 2021",
+        description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+        imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
+    }
 ]

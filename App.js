@@ -20,7 +20,7 @@ function App() {
     return (
         <div>
             <Navbar />
-            <section className="section">
+            <section>
                 {sections}
             </section>
         </div>
