@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
+    font-family: Poppins;
 }
 
 /* Navbar */
@@ -24,4 +25,59 @@ nav {
     color: #FFFFFF;
     font-size: 15px;
     font-weight: lighter;
+}
+
+/* Section */
+
+.section {
+    display: flex;
+    margin: 30px
+}
+
+.section-img {
+    border-radius: 6px;
+    height: 135px;
+    width: 110px;
+}
+
+.section-right {
+    margin-left: 20px;
+}
+
+.section-right-top {
+    display: flex;
+    align-items: center;
+}
+
+
+.pin {
+    height: 10px;
+    width: 7px;
+}
+
+.country {
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.google-maps-link {
+    color: #918E9B;
+    font-size: 8px;
+}
+
+.location {
+    font-size: 20px;
+}
+
+.date {
+    font-weight: bolder;
+    font-size: 10px;
+}
+
+.description {
+    font-size: 8px;
+    margin-right: 50px;
+    margin-top: 5px;
 }
